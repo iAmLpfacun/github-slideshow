@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Omae wa mo shienderu
 Use the left arrow to go back!
